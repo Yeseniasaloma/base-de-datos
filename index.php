@@ -7,7 +7,7 @@
     <title>Asistencias</title>
 </head>
 <body>
-    <h1>REGISTRO DE ASISTENCIA</h1>
+    <h1>REGISTRO DE ALEX</h1>
     <form action="" method="post">
         <label for="dni">
             DNI:
